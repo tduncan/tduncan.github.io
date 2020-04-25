@@ -61,8 +61,6 @@ author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-  location: "San Francisco Bay Area"
-    - icon: "fas fa-fw fa-map-marker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
