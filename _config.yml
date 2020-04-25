@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Software Engineer.  TDD Enthusiast.  Father."
   location: "San Francisco Bay Area"
   links:
     - label: "Website"
