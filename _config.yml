@@ -1,3 +1,6 @@
-remote-theme: mmistakes/minimal-mistakes
+remote-theme: mmistakes/minimal-mistakes@4.19.1
+plugins:
+  - jekyll-include-cache
+
 title: Thomas Duncan
 description: TDD enthusiast and aspiring software craftsman
