@@ -5,7 +5,7 @@ categories:
   - Gradle
 tags:
   - Gradle
-version: 1.0.0
+version: 1.0.1
 ---
 [Previously](https://tduncan.github.io/gradle/gradle-starting-simple/)
 we created a simple Java project using Gradle.  This is a great
@@ -109,4 +109,4 @@ Where is the distribution downloaded to?  They can be found
 in `~/.gradle/wrapper/dists` in case you want to clean them 
 up from time-to-time.
 
-Source Code:
+Source Code: https://github.com/tduncan/gradle-adding-wrapper
