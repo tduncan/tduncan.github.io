@@ -6,7 +6,7 @@ categories:
 tags:
   - Gradle
   - Kotlin
-version: 1.1.0
+version: 1.2.0
 ---
 [Gradle](https://www.gradle.org) is an "open-source build automation tool focused on 
 flexibility and performance", and is my personal goto build tool

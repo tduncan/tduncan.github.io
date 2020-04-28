@@ -19,6 +19,11 @@ and pursuing a career in software engineering.
 Here you will find me writing about Java and related technologies,
 as well as more process-oriented topics like
 test driven development (TDD).  My approach to producing software
-has been influenced a great deal by the eXtreme Programming
-community and through my own practice, and I hope to share 
-those experiences with you!
+has been influenced a great deal by the 
+[eXtreme Programming](http://www.extremeprogramming.org/)
+community, individuals like [Kent Beck](https://www.kentbeck.com/),
+[Martin Fowler](https://martinfowler.com/), 
+and [Uncle Bob](https://blog.cleancoder.com/), as well as through
+my own practice of the ideas taken from those inspirations.
+My hope is that I can share those experiences with you, and with
+any luck perhaps a little inspiration.
