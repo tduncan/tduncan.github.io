@@ -6,16 +6,16 @@ categories:
 tags:
   - Gradle
   - Kotlin
-version: 1.0.1
+version: 1.1.0
 ---
-If you are not already familiar with [Gradle](https://www.gradle.org), its an open source 
-build tool that is commonly used in software projects, particularly
-Java and other JVM-based programming languages like [Kotlin](https://kotlinlang.org/) or [Groovy](https://groovy-lang.org/).
+[Gradle](https://www.gradle.org) is an "open-source build automation tool focused on 
+flexibility and performance", and is my personal goto build tool
+for Java software projects. 
 
-Let's take a look at a simple Gradle build script using the Kotlin
-DSL.  First, the project structure.  If you have experience using Gradle 
-there shouldn't be any surprises here.  If you haven't, this is 
-the standard Gradle boilerplate.
+We'll be using Gradle's Kotlin DSL for our examples.  First, the 
+project structure.  If you have experience using Gradle there 
+shouldn't be any surprises here.  If you haven't, this is the 
+standard Gradle boilerplate.
 
 ```
 gradle-template
@@ -90,4 +90,4 @@ BUILD SUCCESSFUL in 838ms
 2 actionable tasks: 1 executed, 1 up-to-date 
 ```
 
-Source Code: https://github.com/tduncan/gradle-template
+Source Code: https://github.com/tduncan/gradle-starting-simple
