@@ -1,15 +1,13 @@
 ---
-title: "Gradle"
+title: "Gradle: Starting Simple"
 last_modified_at: 2020-04-27
 categories:
   - Gradle
 tags:
   - Gradle
   - Kotlin
-version: 1.0
+version: 1.0.1
 ---
-Gradle
-------
 If you are not already familiar with [Gradle](https://www.gradle.org), its an open source 
 build tool that is commonly used in software projects, particularly
 Java and other JVM-based programming languages like [Kotlin](https://kotlinlang.org/) or [Groovy](https://groovy-lang.org/).
