@@ -2,7 +2,23 @@
 permalink: /about/
 title: "About"
 ---
+Hi, I'm Thomas.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a software engineer currently living and working in the 
+San Francisco Bay Area.  Super unique, right?  Before finding
+my way to the Bay I spent the first 3 decades of my life in the
+Midwest of the United States.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I found software later than many of my peers.  I didn't write
+my first line of code until college, but the experience was 
+life changing, literally.  In less than a year I went from an
+18-year-old planning on spending at least the next 4 years
+playing college soccer to choosing to major in Computer Science
+and pursuing a career in software engineering.
+
+Here you will find me writing about Java and related technologies,
+as well as more process-oriented topics like
+test driven development (TDD).  My approach to producing software
+has been influenced a great deal by the eXtreme Programming
+community and through my own practice, and I hope to share 
+those experiences with you!
