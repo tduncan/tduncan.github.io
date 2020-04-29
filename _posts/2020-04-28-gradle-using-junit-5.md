@@ -6,6 +6,7 @@ categories:
 tags:
   - Gradle
   - Junit 5
+  - Kotlin
 version: 1.0.3
 ---
 [JUnit 5](https://junit.org/junit5/) is the newest release of
