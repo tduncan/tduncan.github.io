@@ -6,7 +6,7 @@ categories:
 tags:
   - Gradle
   - Junit 5
-version: 1.0.2
+version: 1.0.3
 ---
 [JUnit 5](https://junit.org/junit5/) is the newest release of
 the popular JUnit testing framework and offers a number of
@@ -37,10 +37,10 @@ dependencies {
 
 There is a bit to unpack here, so let's take a moment to explain
 what we're seeing. The `dependencies` block is the section of
-the build script where we declare what libraries we will be using.
+the build script where we declare which libraries we will be using.
 Gradle will use this information to download the libraries and
 include them on our project classpath.  Gradle will also handle
-downloading the including any libraries required by our 
+downloading and including any libraries required by our 
 dependencies.  These are referred to as transitive dependencies.
 
 From where does Gradle download these libraries?  Great question!
