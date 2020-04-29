@@ -3,11 +3,10 @@ title: "Gradle: Using JUnit 5"
 last_modified_at: 2020-04-28
 categories:
   - Gradle
-  - Junit 5
 tags:
   - Gradle
   - Junit 5
-version: 1.0.0
+version: 1.0.1
 ---
 [JUnit 5](https://junit.org/junit5/) is the newest release of
 the popular JUnit testing framework and offers a number of
