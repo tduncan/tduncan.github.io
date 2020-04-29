@@ -6,7 +6,7 @@ categories:
 tags:
   - Gradle
   - Junit 5
-version: 1.0.1
+version: 1.0.2
 ---
 [JUnit 5](https://junit.org/junit5/) is the newest release of
 the popular JUnit testing framework and offers a number of
@@ -16,7 +16,7 @@ how setup Gradle to execute JUnit 5 tests.
 
 Gradle makes it very simple to quickly execute a suite of 
 automated tests for a Java project. Applying the `java`
-plugin (as we did in our [Gradle: Starting Simple](/gradle-starting-simple/)
+plugin (as we did in our [Gradle: Starting Simple](/gradle/gradle-starting-simple/)
 example) configures your project with a `test` Gradle task.
 As of Gradle version 6.3, however, the default configuration
 of the `test` task is to expect JUnit 4 tests to execute. So,
