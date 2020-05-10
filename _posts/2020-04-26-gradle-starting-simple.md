@@ -1,6 +1,6 @@
 ---
 title: "Gradle: Starting Simple"
-last_modified_at: 2020-04-27
+last_modified_at: 2020-05-09
 categories:
   - Gradle
 tags:
