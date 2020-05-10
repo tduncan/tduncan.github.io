@@ -6,8 +6,12 @@ categories:
 tags:
   - Gradle
   - Kotlin
-version: 1.3.0
+version: 1.3.1
 author:
+  name   : "Thomas Duncan"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "Software Engineer.  TDD Enthusiast."
+  location: "San Francisco Bay Area"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -16,7 +20,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tduncan"
     - label: "Source Code"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-code"
       url: "https://github.com/tduncan/gradle-starting-simple"
 ---
 [Gradle](https://www.gradle.org) is an "open-source build automation tool focused on 
