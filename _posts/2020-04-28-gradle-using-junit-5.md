@@ -1,6 +1,6 @@
 ---
 title: "Gradle: Using JUnit 5"
-last_modified_at: 2020-04-28
+last_modified_at: 2020-05-09
 categories:
   - Gradle
 tags:
