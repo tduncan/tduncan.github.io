@@ -6,7 +6,18 @@ categories:
 tags:
   - Gradle
   - Kotlin
-version: 1.2.0
+version: 1.3.0
+author:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tduncan.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tduncan"
+    - label: "Source Code"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tduncan/gradle-starting-simple"
 ---
 [Gradle](https://www.gradle.org) is an "open-source build automation tool focused on 
 flexibility and performance", and is my personal goto build tool
@@ -89,5 +100,3 @@ Hello World!
 BUILD SUCCESSFUL in 838ms                    
 2 actionable tasks: 1 executed, 1 up-to-date 
 ```
-
-Source Code: https://github.com/tduncan/gradle-starting-simple
