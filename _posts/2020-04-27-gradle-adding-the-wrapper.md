@@ -1,11 +1,26 @@
 ---
 title: "Gradle: Adding the Gradle Wrapper"
-last_modified_at: 2020-04-27
+last_modified_at: 2020-05-09
 categories:
   - Gradle
 tags:
   - Gradle
-version: 1.0.1
+version: 1.1.0
+author:
+  name   : "Thomas Duncan"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "Software Engineer.  TDD Enthusiast."
+  location: "San Francisco Bay Area"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tduncan.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tduncan"
+    - label: "Source Code"
+      icon: "fas fa-code"
+      url: "https://github.com/tduncan/gradle-adding-wrapper"
 ---
 [Previously](https://tduncan.github.io/gradle/gradle-starting-simple/)
 we created a simple Java project using Gradle.  This is a great
@@ -108,5 +123,3 @@ BUILD SUCCESSFUL in 12s
 Where is the distribution downloaded to?  They can be found
 in `~/.gradle/wrapper/dists` in case you want to clean them 
 up from time-to-time.
-
-Source Code: https://github.com/tduncan/gradle-adding-wrapper
