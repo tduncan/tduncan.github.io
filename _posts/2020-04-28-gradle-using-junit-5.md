@@ -7,7 +7,22 @@ tags:
   - Gradle
   - Junit 5
   - Kotlin
-version: 1.0.3
+version: 1.1.0
+author:
+  name   : "Thomas Duncan"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "Software Engineer.  TDD Enthusiast."
+  location: "San Francisco Bay Area"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tduncan.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tduncan"
+    - label: "Source Code"
+      icon: "fas fa-code"
+      url: "https://github.com/tduncan/gradle-using-junit-5"
 ---
 [JUnit 5](https://junit.org/junit5/) is the newest release of
 the popular JUnit testing framework and offers a number of
@@ -93,5 +108,3 @@ BUILD SUCCESSFUL in 1s
 ```
 
 And that's it!  Now, for some actual tests!
-
-Source Code: https://github.com/tduncan/gradle-using-junit-5
