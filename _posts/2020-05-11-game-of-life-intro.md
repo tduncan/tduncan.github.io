@@ -8,7 +8,7 @@ tags:
   - TDD By Example
   - Game of Life
   - Java
-version: 1.0.0
+version: 1.0.1
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -58,7 +58,7 @@ has two neighbors that are alive and doesn't qualify for rule #4. The top-middle
 living into the 2nd generation as it qualifies for rule #2. However, when moving into the 3rd generation it qualifies
 for rule #1 (underpopulation) and dies. Advancing a little, take a look at the middle-right cell. It starts out as dead,
 but because it has three alive neighbors in the 1st generation is becomes alive in the 2nd generation due to rule #4.
-It suffers the safe fate as the top-middle cell in the 3rd generation, though, and quickly dies out. In the end, all of
+It suffers the same fate as the top-middle cell in the 3rd generation, though, and quickly dies out. In the end, all of
 the cells die and will continue to stay dead under this example.
 
 Most examples will end this way. Over the years a number of configurations have been identified as either stable or
