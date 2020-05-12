@@ -8,7 +8,7 @@ tags:
   - TDD By Example
   - Game of Life
   - Java
-version: 1.0.1
+version: 1.0.2
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -62,8 +62,8 @@ It suffers the same fate as the top-middle cell in the 3rd generation, though, a
 the cells die and will continue to stay dead under this example.
 
 Most examples will end this way. Over the years a number of configurations have been identified as either stable or
-self-replicating. Takes the "book", for example. As long as the surrounding cells remain dead the "book" will
-continue on unchanged.
+self-replicating. Takes the "book", for example, which is a stable square of 4 alive neighbors. As long as the 
+surrounding cells remain dead the "book" will continue on unchanged.
 
 ```
 1st Gen                  2nd Gen                  3rd Gen
