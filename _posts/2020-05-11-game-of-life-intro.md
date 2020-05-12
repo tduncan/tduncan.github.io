@@ -1,6 +1,6 @@
 ---
 title: "Conway's Game of Life: Introduction"
-last_modified_at: 2020-05-11
+last_modified_at: 2020-05-12
 categories:
   - Game Of Life
 tags:
@@ -8,7 +8,7 @@ tags:
   - TDD By Example
   - Game of Life
   - Java
-version: 1.0.2
+version: 1.0.3
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -90,8 +90,8 @@ shape of the object will oscillate between the two configurations indefinitely i
 |   | * |   |        |   |   |   |        |   | * |   |       |   |   |   |
 +---+---+---+        +---+---+---+        +---+---+---+       +---+---+---+
 ```
-There are even self-replicating that have been discovered that move across the grid call spaceships! All of this organic
-behavior is formed out of just the 4 simple rules laid out above. Super cool!
+There are even self-replicating patterns that have been discovered that move across the grid call spaceships! All of
+this organic behavior is formed out of just the 4 simple rules laid out above. Super cool!
 
 Conway's Game of Life is deceptively deep! We could go on forever, but what I'm really hoping to do is use the problem
 as a demonstration of Test Driven Development, which is exactly what we'll do in the next post.
