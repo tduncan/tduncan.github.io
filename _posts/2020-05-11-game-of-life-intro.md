@@ -2,13 +2,13 @@
 title: "Conway's Game of Life: Introduction"
 last_modified_at: 2020-05-12
 categories:
+  - TDD Examples
   - Game Of Life
 tags:
   - TDD
-  - TDD By Example
-  - Game of Life
   - Java
-version: 1.0.3
+  - JUnit 5
+version: 1.0.4
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
