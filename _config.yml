@@ -104,6 +104,6 @@ tag_archive:
   path: /tags/
 
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
     tracking_id          : UA-166632498-1
