@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.0
+version: 1.0.1
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -26,7 +26,7 @@ author:
       url: "https://github.com/tduncan/conways-game-of-life"
 ---
 Before we jump head first into the code we first need to come up with a plan for how we are going to move forward. 
-Lame, I know, planning is essential. We should categorically reject long, extended up front planning as inefficient, 
+Lame, I know, but planning is essential. We should categorically reject long, extended up front planning as inefficient, 
 both the goal and a plan are essential ingredients of success.
 
 I like to think of this step like planning a vacation. The
