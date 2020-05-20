@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.0
+version: 1.0.1
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -87,7 +87,7 @@ class GameOfLifeTest {
 }
 ```
 
-One school of TDD thought advocates ask you to literally not write any production code, including the production class, 
+One school of TDD thought advocates to literally not write any production code, including the production class, 
 until a failing test requires it, and that a compiler error is a failing test.  I've done that here for demonstration, 
 but I personally don't find that level of rigor valuable.  I strongly advise against creating method stubs, however, as 
 exploring the API space within the tests from the perspective of a user can produce some surprising results. Often the 
