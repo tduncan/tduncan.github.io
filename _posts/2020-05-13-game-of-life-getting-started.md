@@ -1,6 +1,6 @@
 ---
 title: "Conway's Game of Life: Getting Started"
-last_modified_at: 2020-05-13
+last_modified_at: 2020-05-19
 categories:
   - TDD Examples
   - Game Of Life
@@ -82,5 +82,5 @@ real tests. This list isn't final. We will be revisiting it frequently, sometime
 at other times. We may not even complete all the listed items. Often you will find that multiple items are actually
 specific examples of the same generic case. This is perfectly acceptable, even expected.
 
-Enough talking, however. Next up we will be writing out first test and officially enter into the TDD workflow!
+But enough talking. Next up we will be writing out first test and officially enter into the TDD workflow!
 
