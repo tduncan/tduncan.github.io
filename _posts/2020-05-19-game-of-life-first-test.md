@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.1
+version: 1.0.2
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -110,9 +110,9 @@ Our requirements are fairly simple for the Game of Life, however we still need t
 should be used. We've already decided we want to operate on a two-dimensional array of integers, but how to provide it?
 The two obvious options are as a method parameter or as a constructor parameter. If we were to choose the constructor
 parameter option we would be required to manage the state explicitly as well as provide some mechanism for an outside
-observer to inspect that state (the tests in our case). That seems more complicated than the problem requires to be, so
-I opt to supply the grid as a method parameter, and for the next generation to be returned as another two-dimensional
-grid back. This solves both the state management and observability problem.
+observer to inspect that state (the tests in our case). That seems more complicated than should be necessary, so I opt 
+to supply the grid as a method parameter, and for the next generation to be returned as another two-dimensional grid 
+back. This solves both the state management and observability problem.
 
 The only question that remains is how to name our method. Just as before, don't stress too much on finding the perfect 
 name, particularly not when you are just building up the solution. Just look for a name that clearly expresses what the
