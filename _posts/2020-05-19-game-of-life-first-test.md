@@ -185,7 +185,7 @@ Given that we stubbed our `nextGeneration` method out to return null we should n
 notice the `allDead` variable created, however. I've done this to make it more clear exactly what the expectation is,
 including giving it a meaningful name. You may argue that the variable is unnecessary because we've already defined
 this exact value for our initial state, but the fact that the two states are the same does not mean they are duplicate
-states. It's easy to be tempted to take the shortcut and have the assertion be 
+of each other . It's easy to be tempted to take the shortcut and have the assertion be 
 `assertArrayEquals(grid, nextGeneration);`, but doing so prevents our tests from telling the story accurately,
 misleading the reader in some subtle and not-so-subtle ways.
 
