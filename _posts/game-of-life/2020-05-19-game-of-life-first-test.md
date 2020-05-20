@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.2
+version: 1.0.3
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -192,15 +192,8 @@ misleading the reader in some subtle and not-so-subtle ways.
 Moving on, we expect the test to fail so lets run it to verify.
 
 ```
-$ ./gradlew check
-Starting a Gradle Daemon (subsequent builds will be faster)
-
-> Task :test FAILED
-
-GameOfLifeTest > gridWithAllDeadCellsResultsInAllCellsRemainingDead() FAILED
-    org.opentest4j.AssertionFailedError at GameOfLifeTest.java:20
-
-1 test completed, 1 failed
+org.opentest4j.AssertionFailedError: actual array was <null>
+	at io.github.tduncan.gameoflife.GameOfLifeTest.gridWithAllDeadCellsResultsInAllCellsRemainingDead(GameOfLifeTest.java:20)
 ```
 
 It fails! Perfect! In the next post we'll begin to flesh out our Game of Life solution and really get into the
