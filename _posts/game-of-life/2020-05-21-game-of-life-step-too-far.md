@@ -1,6 +1,6 @@
 ---
 title: "Conway's Game of Life: A Step Too Far"
-last_modified_at: 2020-05-22
+last_modified_at: 2020-05-23
 categories:
   - TDD Examples
   - Game Of Life
@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.0
+version: 1.0.1
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
@@ -44,7 +44,7 @@ than three live neighbours dies, as if by overpopulation*. Perhaps less obvious,
 an alive cell should remain alive in the next generation, or rule 2; *any live cell with two or three live neighbours 
 lives on to the next generation*.
 
-Once I realized this I had paused. We're trying to talk small steps forward, both with the implementation and the tests.
+Once I realized this I had to paused. We're trying to talk small steps forward, both with the implementation and the tests.
 Our last test, though, is asking us to implement 2 of the 4 rules almost immediately. Ideally our test would have asked
 us to implement just one of the rules, with the 2nd rule being enforeced with a dedicated test. We could continue down
 our current path, but we run the potential of laying a trap for our future selves in the form of false-positive test
