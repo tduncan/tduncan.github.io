@@ -1,6 +1,6 @@
 ---
 title: "Conway's Game of Life: Digging In And Out Of a Hole"
-last_modified_at: 2020-05-23
+last_modified_at: 2020-06-04
 categories:
   - TDD Examples
   - Game Of Life
@@ -8,7 +8,7 @@ tags:
   - TDD
   - Java
   - JUnit 5
-version: 1.0.0
+version: 1.0.1
 author:
   name   : "Thomas Duncan"
   avatar : "/assets/images/photo.jpg"
