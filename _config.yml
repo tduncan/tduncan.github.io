@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/tduncan"
 
 collections:
-  gameoflife:
+  game-of-life:
     output: true
     permalink: /:collection/:path/
 
