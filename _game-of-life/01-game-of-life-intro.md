@@ -1,11 +1,31 @@
 ---
-title: "Game of Life: Introduction"
-permalink: /game-of-life/introduction/
-excerpt: "Introduction to the "Game" of the Game of Life"
-last_modified_at: 2020-06-15
-version: 2.0.0
-toc: true
+title: "Conway's Game of Life: Introduction"
+last_modified_at: 2020-05-12
+categories:
+  - TDD Examples
+  - Game Of Life
+tags:
+  - TDD
+  - Java
+  - JUnit 5
+version: 1.0.4
+author:
+  name   : "Thomas Duncan"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "Software Engineer.  TDD Enthusiast."
+  location: "San Francisco Bay Area"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tduncan.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tduncan"
+    - label: "Source Code"
+      icon: "fas fa-fw fa-code"
+      url: "https://github.com/tduncan/conways-game-of-life"
 ---
+
 Conway's Game of Life is not actually a game, at least not in the common use of the word, but rather a simulation.
 More formally, the Game of Life is classified as a cellular automation, of which it is perhaps the most well-known.
 The straightforward solution is quite short, yet there is just enough complexity that I still need to think my way
