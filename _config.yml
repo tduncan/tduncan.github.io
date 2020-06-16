@@ -108,6 +108,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      sidebar:
+        nav: "game-of-life"
 
 category_archive:
   type: liquid

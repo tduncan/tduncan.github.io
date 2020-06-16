@@ -9,3 +9,9 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+game-of-life:
+  title: Game of Life
+  children:
+    - title: Introduction
+      url: /game-of-life/introduction
