@@ -80,17 +80,6 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-  - scope:
-      path: ""
-      type: gameoflife
-   values:
-     layout: single
-     read_time: false
-     author_profile: true
-     share: false
-     comments: false
-     sidebar:
-       nav: "docs"
   # _posts
   - scope:
       path: ""
@@ -109,6 +98,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _gameoflife
+  - scope:
+      path: ""
+      type: gameoflife
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
 
 category_archive:
   type: liquid
