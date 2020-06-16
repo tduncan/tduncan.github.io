@@ -16,7 +16,8 @@
 title:
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Discussions on practical approaches to help improve your Software Engineering craft.
+  Discussions on Test Driven Development, refactoring, and other practical approaches to help improve your Software
+  Engineering craft.
 github_username: tduncan
 minimal_mistakes_skin: default
 search: true
@@ -73,7 +74,23 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tduncan"
 
+collections:
+  gameoflife:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
+  - scope:
+      path: ""
+      type: gameoflife
+   values:
+     layout: single
+     read_time: false
+     author_profile: true
+     share: false
+     comments: false
+     sidebar:
+       nav: "docs"
   # _posts
   - scope:
       path: ""
