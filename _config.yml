@@ -101,7 +101,7 @@ defaults:
   # _gameoflife
   - scope:
       path: ""
-      type: gameoflife
+      type: game-of-life
     values:
       layout: single
       read_time: false
