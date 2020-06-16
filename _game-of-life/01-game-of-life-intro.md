@@ -1,8 +1,8 @@
 ---
 title: "Game of Life: Introduction"
-permalink: /game-of-life/introduction
+permalink: /game-of-life/introduction/
 excerpt: "Introduction to the "Game" of the Game of Life"
-last_modified_at: 2020-05-12
+last_modified_at: 2020-06-15
 version: 2.0.0
 toc: true
 ---

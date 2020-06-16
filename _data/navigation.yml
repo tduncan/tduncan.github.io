@@ -14,4 +14,4 @@ game-of-life:
   title: Game of Life
   children:
     - title: Introduction
-      url: /game-of-life/introduction
+      url: /game-of-life/introduction/
