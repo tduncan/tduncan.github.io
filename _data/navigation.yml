@@ -10,12 +10,6 @@ main:
   - title: "About"
     url: /about/
 
-game-of-life:
-  title: Game of Life
-  children:
-    - title: Introduction
-      url: /game-of-life/introduction/
-
 tdd:
   - title: About
     children:
@@ -24,4 +18,8 @@ tdd:
   - title: Examples
     children:
       - title: Conway's Game of Life
-        url: /tdd/examples/conways-game-of-life
+        url: /tdd/examples/conways-game-of-life/introduction
+
+conways-game-of-life
+  - title: Introduction
+    url: /tdd/examples/conways-game-of-life/introduction

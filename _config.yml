@@ -78,6 +78,9 @@ collections:
   tdd:
     output: true
     permalink: /:collection/:path/
+  conways-game-of-life:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -110,6 +113,18 @@ defaults:
       comments: false
       sidebar:
         nav: "tdd"
+  # _conways-game-of-life
+  - scope:
+      path: ""
+      type: conways-game-of-life
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "conways-game-of-life"
 
 
 category_archive:
