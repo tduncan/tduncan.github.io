@@ -113,14 +113,14 @@ defaults:
   - scope:
       path: ""
       type: tdd
-  values:
-    layout: single
-    read_time: false
-    author_profile: false
-    share: false
-    comments: false
-    sidebar:
-      nav: "tdd"
+   values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "tdd"
 
 
 category_archive:
