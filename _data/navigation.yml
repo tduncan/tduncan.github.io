@@ -21,19 +21,21 @@ tdd:
         url: /tdd/examples/conways-game-of-life/introduction
 
 conways-game-of-life:
-  - title: Introduction
-    url: /tdd/examples/conways-game-of-life/introduction
-  - title: Forming A Plan
-    url: /tdd/examples/conways-game-of-life/forming-a-plan
-  - title: Writing Our First Test
-    url: /tdd/examples/conways-game-of-life/writing-out-first-test
-  - title: Getting Into The Flow
-    url: /tdd/examples/conways-game-of-life/getting-into-the-flow
-  - title: A Step Too Far
-    url: /tdd/examples/conways-game-of-life/a-step-too-far
-  - title: Refactoring
-    url: /tdd/examples/conways-game-of-life/refactoring
-  - title: Digging A Hole
-    url: /tdd/examples/conways-game-of-life/digging-a-hole
-  - title: The Finish Line
-    url: /tdd/examples/conways-game-of-life/the-finish-line
+  - title: Conway's Game of Life
+    children:
+      - title: Introduction
+        url: /tdd/examples/conways-game-of-life/introduction
+      - title: Forming A Plan
+        url: /tdd/examples/conways-game-of-life/forming-a-plan
+      - title: Writing Our First Test
+        url: /tdd/examples/conways-game-of-life/writing-out-first-test
+      - title: Getting Into The Flow
+        url: /tdd/examples/conways-game-of-life/getting-into-the-flow
+      - title: A Step Too Far
+        url: /tdd/examples/conways-game-of-life/a-step-too-far
+      - title: Refactoring
+        url: /tdd/examples/conways-game-of-life/refactoring
+      - title: Digging A Hole
+        url: /tdd/examples/conways-game-of-life/digging-a-hole
+      - title: The Finish Line
+        url: /tdd/examples/conways-game-of-life/the-finish-line
