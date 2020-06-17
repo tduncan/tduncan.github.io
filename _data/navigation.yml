@@ -20,6 +20,6 @@ tdd:
       - title: Conway's Game of Life
         url: /tdd/examples/conways-game-of-life/introduction
 
-conways-game-of-life
+conways-game-of-life:
   - title: Introduction
     url: /tdd/examples/conways-game-of-life/introduction
