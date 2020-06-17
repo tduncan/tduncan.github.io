@@ -4,7 +4,7 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "TDD"
-    url: /tdd/
+    url: /tdd/about/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -17,7 +17,11 @@ game-of-life:
       url: /game-of-life/introduction/
 
 tdd:
-  title: Examples
-  children:
-    - title: Conway's Game of Life
-      url: /tdd/examples/conways-game-of-life
+  - title: Introduction
+    children:
+      - title: About TDD
+        url: /tdd/about/
+  - title: Examples
+    children:
+      - title: Conway's Game of Life
+        url: /tdd/examples/conways-game-of-life
