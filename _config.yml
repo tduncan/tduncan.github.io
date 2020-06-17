@@ -98,23 +98,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _gameoflife
-  - scope:
-      path: ""
-      type: game-of-life
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "game-of-life"
-  # tdd
+  # _tdd
   - scope:
       path: ""
       type: tdd
-   values:
+    values:
       layout: single
       read_time: false
       author_profile: false
