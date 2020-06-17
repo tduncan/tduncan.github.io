@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Conway's Game of Life
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /game-of-life/
+collection: game-of-life
 entries_layout: grid
 classes: wide
 ---
