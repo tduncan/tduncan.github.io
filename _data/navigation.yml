@@ -3,8 +3,8 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Collections"
-    url: /collections/
+  - title: "Test Driven Development"
+    url: /tdd/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -15,3 +15,9 @@ game-of-life:
   children:
     - title: Introduction
       url: /game-of-life/introduction/
+
+tdd:
+  title: Examples
+  children:
+    - title: Conway's Game of Life
+      url: /tdd/examples/conways-game-of-life
