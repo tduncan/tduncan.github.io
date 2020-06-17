@@ -1,29 +1,7 @@
 ---
-title: "Conway's Game of Life: Getting Started"
-last_modified_at: 2020-05-19
-categories:
-  - TDD Examples
-  - Game Of Life
-tags:
-  - TDD
-  - Java
-  - JUnit 5
-version: 1.0.1
-author:
-  name   : "Thomas Duncan"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "Software Engineer.  TDD Enthusiast."
-  location: "San Francisco Bay Area"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tduncan.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tduncan"
-    - label: "Source Code"
-      icon: "fas fa-fw fa-code"
-      url: "https://github.com/tduncan/conways-game-of-life"
+title: "Forming a Plan"
+permalink: /tdd/examples/conways-game-of-life/forming-a-plan
+last_modified_at: 2020-06-16
 ---
 Before we jump head first into the code we first need to come up with a plan for how we are going to move forward. 
 Lame, I know, but planning is essential. We should categorically reject long, extended up front planning as inefficient, 

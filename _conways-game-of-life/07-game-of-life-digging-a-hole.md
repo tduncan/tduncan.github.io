@@ -1,29 +1,7 @@
 ---
-title: "Conway's Game of Life: Digging In And Out Of a Hole"
-last_modified_at: 2020-06-04
-categories:
-  - TDD Examples
-  - Game Of Life
-tags:
-  - TDD
-  - Java
-  - JUnit 5
-version: 1.0.1
-author:
-  name   : "Thomas Duncan"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "Software Engineer.  TDD Enthusiast."
-  location: "San Francisco Bay Area"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tduncan.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tduncan"
-    - label: "Source Code"
-      icon: "fas fa-fw fa-code"
-      url: "https://github.com/tduncan/conways-game-of-life"
+title: "Digging A Hole"
+permalink: /tdd/examples/conways-game-of-life/digging-a-hole
+last_modified_at: 2020-06-16
 ---
 Our Game of Life solution is now easier to understand so let's revisit our list of use cases and continue driving 
 toward a complete implementation. Looking at our notes I think the scenario *live cell with one live neighbor, 

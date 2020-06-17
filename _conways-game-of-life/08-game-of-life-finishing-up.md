@@ -1,29 +1,7 @@
 ---
-title: "Conway's Game of Life: Finishing Up"
-last_modified_at: 2020-06-14
-categories:
-  - TDD Examples
-  - Game Of Life
-tags:
-  - TDD
-  - Java
-  - JUnit 5
-version: 1.0.0
-author:
-  name   : "Thomas Duncan"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "Software Engineer.  TDD Enthusiast."
-  location: "San Francisco Bay Area"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tduncan.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tduncan"
-    - label: "Source Code"
-      icon: "fas fa-fw fa-code"
-      url: "https://github.com/tduncan/conways-game-of-life"
+title: "The Finish Line"
+permalink: /tdd/examples/conways-game-of-life/the-finish-line
+last_modified_at: 2020-06-16
 ---
 Continuing from our last session I want to take an opportunity to do a bit of refactoring now that our tests are all
 passing. One thing that has been bothering me is the lack of a domain concept for either the *alive* or *dead* cell

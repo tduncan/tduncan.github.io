@@ -1,29 +1,7 @@
 ---
-title: "Conway's Game of Life: Refactoring"
-last_modified_at: 2020-05-23
-categories:
-  - TDD Examples
-  - Game Of Life
-tags:
-  - TDD
-  - Java
-  - JUnit 5
-version: 1.0.0
-author:
-  name   : "Thomas Duncan"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "Software Engineer.  TDD Enthusiast."
-  location: "San Francisco Bay Area"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tduncan.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tduncan"
-    - label: "Source Code"
-      icon: "fas fa-fw fa-code"
-      url: "https://github.com/tduncan/conways-game-of-life"
+title: "Refactoring"
+permalink: /tdd/examples/conways-game-of-life/refactoring
+last_modified_at: 2020-06-16
 ---
 We have one of the four rules in the Game of Life working but, if we're honest, the code isn't great. Before we move on
 to writing a test for another one of the Game of Life rules lets dive into the **refactor** phase since all of our tests

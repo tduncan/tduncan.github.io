@@ -1,29 +1,7 @@
 ---
-title: "Conway's Game of Life: Into the Flow"
-last_modified_at: 2020-05-19
-categories:
-  - TDD Examples
-  - Game Of Life
-tags:
-  - TDD
-  - Java
-  - JUnit 5
-version: 1.0.0
-author:
-  name   : "Thomas Duncan"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "Software Engineer.  TDD Enthusiast."
-  location: "San Francisco Bay Area"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tduncan.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tduncan"
-    - label: "Source Code"
-      icon: "fas fa-fw fa-code"
-      url: "https://github.com/tduncan/conways-game-of-life"
+title: "Getting Into The Flow"
+permalink: /tdd/examples/conways-game-of-life/getting-into-the-flow
+last_modified_at: 2020-06-16
 ---
 We last left of with our first failing test.
 
