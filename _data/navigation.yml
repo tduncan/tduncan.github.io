@@ -5,6 +5,8 @@ main:
     url: /categories/
   - title: "TDD"
     url: /tdd/introduction/
+  - title: "Code Smells"
+    url: /code-smells/introduction/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -19,6 +21,12 @@ tdd:
     children:
       - title: Conway's Game of Life
         url: /tdd/examples/conways-game-of-life/introduction
+
+code-smells:
+  - title: About
+    children:
+      - title: Introduction
+        url: /codesmells/introduction/
 
 conways-game-of-life:
   - title: Conway's Game of Life

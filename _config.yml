@@ -78,6 +78,9 @@ collections:
   tdd:
     output: true
     permalink: /:collection/:path/
+  code-smells:
+    output: true
+    permalink: /:collection/:path/
   conways-game-of-life:
     output: true
     permalink: /:collection/:path/
@@ -125,6 +128,17 @@ defaults:
       comments: false
       sidebar:
         nav: "conways-game-of-life"
+  -scope:
+    path: ""
+    type: code-smells
+  values:
+    layout: single
+    read_time: false
+    author_profile: false
+    share: false
+    comments: false
+    sidebar:
+      nav: "code-smells"
 
 
 category_archive:
