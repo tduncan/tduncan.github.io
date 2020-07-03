@@ -26,7 +26,7 @@ code-smells:
   - title: About
     children:
       - title: Introduction
-        url: /codesmells/introduction/
+        url: /code-smells/introduction/
 
 conways-game-of-life:
   - title: Conway's Game of Life
