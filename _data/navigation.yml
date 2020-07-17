@@ -27,14 +27,10 @@ code-smells:
     children:
       - title: Introduction
         url: /code-smells/introduction/
-      - title: Dispensables
-        url: /code-smells/dispensables/
-
-code-smells-dispensables:
   - title: Dispensables
     children:
       - title: Dead Code
-        url: /code-smells/dispensables/dead-code/
+        url: /code-smells/dispensables/dead-code
 
 conways-game-of-life:
   - title: Conway's Game of Life
