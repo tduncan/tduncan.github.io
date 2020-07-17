@@ -140,6 +140,18 @@ defaults:
       comments: false
       sidebar:
         nav: "code-smells"
+  #code-smells-dispensables
+  - scope:
+      path: ""
+      type: code-smells-dispensables
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "code-smells-dispensables"
 
 
 category_archive:
