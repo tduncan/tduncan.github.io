@@ -30,7 +30,7 @@ code-smells:
       - title: Dispensables
         url: /code-smells/dispensables/
         children:
-          - title Dead Code
+          - title: Dead Code
             url: /code-smells/dispensables/dead-code/
 
 conways-game-of-life:
