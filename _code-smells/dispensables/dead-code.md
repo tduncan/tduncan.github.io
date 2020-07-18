@@ -22,10 +22,10 @@ Do be careful with code that your IDE may have the usage context available for. 
 framework glue code are two examples of code that may be flagged as Dead Code, but has real usages the IDE is unable
 understand.
 
-#### Remedy:
+#### Remedy
 Fortunately Dead Code is easy to fix. Delete it.
 
-#### Variations:
+#### Variations
 Unused import
 Unused constant
 Unused field
