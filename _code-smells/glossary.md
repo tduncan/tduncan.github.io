@@ -1,6 +1,6 @@
 ---
-title: "Index"
-permalink: /code-smells/index/
+title: "Glossary"
+permalink: /code-smells/glossary/
 last_modified_at: 2020-07-16
 version: 1.0.0
 toc: true

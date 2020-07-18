@@ -27,8 +27,8 @@ code-smells:
     children:
       - title: Introduction
         url: /code-smells/introduction/
-      - title: Index
-        url: /code-smells/index/
+      - title: Glossary
+        url: /code-smells/glossary/
   - title: Dispensables
     children:
       - title: Dead Code
