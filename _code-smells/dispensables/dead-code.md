@@ -2,6 +2,7 @@
 title: "Dead Code"
 permalink: /code-smells/dispensables/dead-code/
 last_modified_at: 2020-07-17
+toc: true
 ---
 Dead code is code that is no longer referenced by other parts of the production codebase, often because it has been made
 obsolete.
